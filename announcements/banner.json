@@ -1,13 +1,13 @@
 {
-  "version": 2,
-  "id": "maintenance-6",
+  "version": 1,
+  "id": "maintenance-7",
   "enabled": true,
 
   "type": "info",
   "dismissible": false,
 
-  "title": "Технические работы",
-  "subtitle": "Сегодня возможны перебои в работе Sendy",
+  "title": "С защитой",
+  "subtitle": "Узнайте, как Sendy защищает сообщения",
   "description": "",
 
  "links": [
