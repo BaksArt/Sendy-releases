@@ -3,7 +3,7 @@
   "id": "maintenance-2",
   "enabled": true,
 
-  "type": "info",
+  "type": "warning",
   "dismissible": false,
 
   "title": "Технические работы",
