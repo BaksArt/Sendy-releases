@@ -4,7 +4,6 @@
   "enabled": true,
 
   "type": "warning",
-  "priority": 10,
   "dismissible": true,
 
   "title": "Технические работы",
