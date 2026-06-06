@@ -12,16 +12,16 @@
 
  "links": [
     {
-      "text": "Статус Sendy",
-      "url": "https://t.me/sendy_status"
+      "text": "",
+      "url": ""
     },
     {
-      "text": "Скачать обновление",
-      "url": "https://example.com/download"
+      "text": "",
+      "url": ""
     },
     {
-      "text": "Подробнее",
-      "url": "https://example.com/info"
+      "text": "",
+      "url": ""
     }
   ],
 
