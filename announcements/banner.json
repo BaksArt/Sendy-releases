@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "id": "maintenance-2026-06-06",
+  "enabled": true,
+
+  "type": "warning",
+  "priority": 10,
+  "dismissible": true,
+
+  "title": "Технические работы",
+  "subtitle": "Сегодня возможны перебои в работе Sendy",
+  "description": "Мы обновляем серверную часть. Сообщения могут доставляться с задержкой.",
+
+  "link": {
+    "enabled": false,
+    "text": "Статус Sendy",
+    "url": "https://t.me/sendy_status"
+  },
+
+  "show_from": "2026-06-06T18:00:00Z",
+  "show_until": "2026-06-07T02:00:00Z"
+}
