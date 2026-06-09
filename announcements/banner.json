@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "id": "maintenance-8",
+  "id": "new_version121",
   "enabled": true,
 
   "type": "info",
   "dismissible": true,
 
-  "title": "Работа Sendy восстановлена",
-  "subtitle": "Готов снова передавать сообщения",
-  "description": "",
+  "title": "Обновитесь для новых функций",
+  "subtitle": "Просмотр реакций, мультимедиа и не только",
+  "description": "Обновите в настройках: Версия > обновить",
 
  "links": [
     {
-      "text": "Поддержать разработчика",
-      "url": "https://www.tbank.ru/cf/2BDbhM80voE"
+      "text": "",
+      "url": ""
     },
     {
       "text": "",
